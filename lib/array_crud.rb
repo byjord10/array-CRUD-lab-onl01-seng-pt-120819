@@ -4,11 +4,12 @@ array = []
 end
 
 def create_an_array
-  array = ["he/him", "her/she", "them/they", "idk"]
+  array = ["Baltimore", "Columbia", "Silver Spring", "Upper Marlboro"]
 
 end
 
 def add_element_to_end_of_array(array, element)
+  array.push("PG County")
 
 end
 
