@@ -4,7 +4,7 @@ array = []
 end
 
 def create_an_array
-  array = ["he/him", "her/she", "them/they"]
+  array = ["he/him", "her/she", "them/they", "idk"]
 
 end
 
